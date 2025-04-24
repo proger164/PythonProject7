@@ -1,4 +1,5 @@
 import os
+import math
 from hashlib import blake2b
 msg = b'some message'
 # Вычислите первый хеш со случайной солью.
